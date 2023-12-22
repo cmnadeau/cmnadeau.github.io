@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate Course Instructor"
 permalink: /teaching/ior-intro-calc
 venue: "University of Rhode Island, Department of Mathematics"
-date: 2021-01-26
+date: 2022-01-26
 location: "Kingston, RI, USA"
 ---
 
